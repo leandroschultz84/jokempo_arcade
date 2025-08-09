@@ -1,7 +1,7 @@
 # 🎮 Jokempo Arcade
 
 Jogo clássico de pedra, papel e tesoura com visual inspirado no arcade!  
-Desenvolvido com **HTML**, **CSS** e **JavaScript puro**, este projeto é uma ótima forma de praticar lógica de programação, manipulação de DOM e estilização web.
+Desenvolvido com **HTML**, **CSS** e **JavaScript**. Este projeto foi aplicado lógica de programação, manipulação de DOM e estilização web.
 
 ---
 
@@ -23,13 +23,6 @@ Desenvolvido com **HTML**, **CSS** e **JavaScript puro**, este projeto é uma ó
 
 ---
 
-## 🧠 Conceitos Aplicados
 
-- Manipulação de DOM com `document.querySelector` e `addEventListener`
-- Lógica condicional para determinar o vencedor
-- Atualização dinâmica de conteúdo na página
-- Separação de responsabilidades entre HTML, CSS e JS
-
----
 
 
