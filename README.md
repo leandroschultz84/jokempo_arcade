@@ -1,0 +1,35 @@
+# 🎮 Jokempo Arcade
+
+Jogo clássico de pedra, papel e tesoura com visual inspirado no arcade!  
+Desenvolvido com **HTML**, **CSS** e **JavaScript puro**, este projeto é uma ótima forma de praticar lógica de programação, manipulação de DOM e estilização web.
+
+---
+
+## 📦 Tecnologias 
+
+- **HTML5** – Estrutura Da Interface
+- **CSS3** – Estilização Com Tema Arcade
+- **JavaScript** – Lógica Do Jogo E Interatividade
+
+---
+
+## 🚀 Funcionalidades
+
+- Escolha entre pedra, papel ou tesoura
+- Sistema de comparação entre jogadas
+- Exibição do resultado (vitória, derrota ou empate)
+- Interface interativa
+- Estilo retrô com animações simples
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- Manipulação de DOM com `document.querySelector` e `addEventListener`
+- Lógica condicional para determinar o vencedor
+- Atualização dinâmica de conteúdo na página
+- Separação de responsabilidades entre HTML, CSS e JS
+
+---
+
+
